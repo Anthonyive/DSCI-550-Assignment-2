@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 ipykernel = "*"
 pandas = "*"
+gpt-2-simple = "*"
+tika = "*"
 
 [dev-packages]
 
