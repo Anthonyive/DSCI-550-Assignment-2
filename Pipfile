@@ -7,7 +7,7 @@ name = "pypi"
 ipykernel = "*"
 pandas = "*"
 gpt-2-simple = "*"
-tika = "*"
+lxml = "*"
 
 [dev-packages]
 

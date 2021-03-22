@@ -1,0 +1,29 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="X-Parsed-By" content="org.apache.tika.parser.DefaultParser" />
+<meta name="X-Parsed-By" content="org.apache.tika.parser.image.ImageParser" />
+<meta name="Dimension HorizontalPixelOffset" content="0" />
+<meta name="tiff:ImageLength" content="230" />
+<meta name="Compression CompressionTypeName" content="lzw" />
+<meta name="GraphicControlExtension" content="disposalMethod=none, userInputFlag=false, transparentColorFlag=false, delayTime=0, transparentColorIndex=0" />
+<meta name="Multipart-Boundary" content="----=_NextPart_000_0000_D1C40648.B44929C6" />
+<meta name="Compression NumProgressiveScans" content="1" />
+<meta name="embeddedResourceType" content="ATTACHMENT" />
+<meta name="Chroma ColorSpaceType" content="RGB" />
+<meta name="Chroma BlackIsZero" content="true" />
+<meta name="Compression Lossless" content="true" />
+<meta name="X-TIKA:embedded_depth" content="2" />
+<meta name="width" content="300" />
+<meta name="Dimension ImageOrientation" content="Normal" />
+<meta name="Multipart-Subtype" content="related" />
+<meta name="ImageDescriptor" content="imageLeftPosition=0, imageTopPosition=0, imageWidth=300, imageHeight=230, interlaceFlag=false" />
+<meta name="X-TIKA:embedded_resource_path" content="/embedded-1537/embedded-1538" />
+<meta name="Dimension VerticalPixelOffset" content="0" />
+<meta name="tiff:ImageWidth" content="300" />
+<meta name="Chroma NumChannels" content="3" />
+<meta name="Data SampleFormat" content="Index" />
+<meta name="Content-Type" content="image/gif" />
+<meta name="height" content="230" />
+<title></title>
+</head>
+<body /></html>
