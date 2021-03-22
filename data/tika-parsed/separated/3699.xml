@@ -1,0 +1,97 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="subject" content="Hello" />
+<meta name="dc:creator" content="&quot;Daniel Johnson&quot; &lt;mrdanieljohnsonpp@myway.com&gt;" />
+<meta name="dc:creator" content="Daniel Johnson &lt;mrdanieljohnsonpp@myway.com&gt;" />
+<meta name="MboxParser-http" content="//news.bbc.co.uk/1/hi/worl d/europe/859479.stm&gt;),There is a fixed" />
+<meta name="MboxParser-status" content="RO" />
+<meta name="dcterms:created" content="2007-04-30T21:33:36Z" />
+<meta name="Message:From-Email" content="mrdanieljohnsonpp@myway.com" />
+<meta name="dc:format" content="text/html; charset=ISO-8859-1" />
+<meta name="Message:Raw-Header:Status" content="RO" />
+<meta name="MboxParser-content-disposition" content="inline" />
+<meta name="MboxParser-content-disposition" content="inline" />
+<meta name="Message:Raw-Header:MIME-Version" content="1.0" />
+<meta name="Multipart-Boundary" content="----=_Part_228467_14572500.1177968816036" />
+<meta name="Message:Raw-Header:X-Google-Sender-Auth" content="7f685aa3e8ca3879" />
+<meta name="Message:Raw-Header:Message-ID" content="&lt;6ff2089b0704301433oc058ebbgaa14268e00a792fc@mail.gmail.com&gt;" />
+<meta name="dc:title" content="Hello" />
+<meta name="Message:Raw-Header:X-Sieve" content="CMU Sieve 2.3        d=gmail.com; s=beta;        h=domainkey-signature:received:received:message-id:date:from:sender:subject:mime-version:content-type:x-google-sender-auth;        b=pMnzbssFGm+27gQNbI9VlQQRRggEqs2yOhRH2OkNOY9Easiyt2DOHI2GI6f/lepsNd9etRygb7ZHz5zOMpiTzdGnSd/An809EROtmu2uajP+cj77nLkvFA4HNDVy292DHntohdg7B1m16a2PRFiEBtbk7d5kQxCjNFrCKHY+3so=" />
+<meta name="Content-Type-Override" content="message/rfc822" />
+<meta name="Message:Raw-Header:DomainKey-Signature" content="a=rsa-sha1; c=nofws;        d=gmail.com; s=beta;        h=received:message-id:date:from:sender:subject:mime-version:content-type:x-google-sender-auth;        b=e43rStngYryu4dXxoPCzapkJGxwUSITPIR2Irygo6sGjCAP052HsWpG4rLtwN/mNja1iRJnoi2LBanMFj1xqjiAcRo0MCb/Mw9+mhNjG1xOywOjUa20Z+FJq2PeU3GoGfqCPNr40lXIxTF6dPyy/pYSEhbxcH2CDuAFWzLW+fZo=" />
+<meta name="Content-Type" content="message/rfc822" />
+<meta name="MboxParser-content-transfer-encoding" content="7bit" />
+<meta name="MboxParser-content-transfer-encoding" content="7bit" />
+<meta name="MboxParser-domainkey-signature" content="a=rsa-sha1; c=nofws; b=e43rStngYryu4dXxoPCzapkJGxwUSITPIR2Irygo6sGjCAP052HsWpG4rLtwN/mNja1iRJnoi2LBanMFj1xqjiAcRo0MCb/Mw9+mhNjG1xOywOjUa20Z+FJq2PeU3GoGfqCPNr40lXIxTF6dPyy/pYSEhbxcH2CDuAFWzLW+fZo=" />
+<meta name="identifier" content="&lt;6ff2089b0704301433oc058ebbgaa14268e00a792fc@mail.gmail.com&gt;" />
+<meta name="creator" content="&quot;Daniel Johnson&quot; &lt;mrdanieljohnsonpp@myway.com&gt;" />
+<meta name="creator" content="Daniel Johnson &lt;mrdanieljohnsonpp@myway.com&gt;" />
+<meta name="X-Parsed-By" content="org.apache.tika.parser.DefaultParser" />
+<meta name="X-Parsed-By" content="org.apache.tika.parser.mail.RFC822Parser" />
+<meta name="meta:author" content="&quot;Daniel Johnson&quot; &lt;mrdanieljohnsonpp@myway.com&gt;" />
+<meta name="meta:author" content="Daniel Johnson &lt;mrdanieljohnsonpp@myway.com&gt;" />
+<meta name="meta:creation-date" content="2007-04-30T21:33:36Z" />
+<meta name="format" content="text/html; charset=ISO-8859-1" />
+<meta name="MboxParser-x-sieve" content="CMU Sieve 2.3 h=domainkey-signature:received:received:message-id:date:from:sender:subject:mime-version:content-type:x-google-sender-auth; d=gmail.com; s=beta; boundary=&quot;----=_Part_228467_14572500.1177968816036&quot;" />
+<meta name="Creation-Date" content="2007-04-30T21:33:36Z" />
+<meta name="Message:Raw-Header:Return-Path" content="&lt;danieljohnson013@gmail.com&gt;" />
+<meta name="MboxParser-from" content="r  Mon Apr 30 17:34:17 2007" />
+<meta name="MboxParser-return-path" content="&lt;danieljohnson013@gmail.com&gt; d=gmail.com; s=beta; b=pMnzbssFGm+27gQNbI9VlQQRRggEqs2yOhRH2OkNOY9Easiyt2DOHI2GI6f/lepsNd9etRygb7ZHz5zOMpiTzdGnSd/An809EROtmu2uajP+cj77nLkvFA4HNDVy292DHntohdg7B1m16a2PRFiEBtbk7d5kQxCjNFrCKHY+3so= h=received:message-id:date:from:sender:subject:mime-version:content-type:x-google-sender-auth;" />
+<meta name="MboxParser-x-google-sender-auth" content="7f685aa3e8ca3879" />
+<meta name="Message:Raw-Header:Sender" content="danieljohnson013@gmail.com" />
+<meta name="MboxParser-mime-version" content="1.0" />
+<meta name="Message:From-Name" content="Daniel Johnson" />
+<meta name="MboxParser-sender" content="danieljohnson013@gmail.com" />
+<meta name="X-TIKA:embedded_depth" content="1" />
+<meta name="Author" content="&quot;Daniel Johnson&quot; &lt;mrdanieljohnsonpp@myway.com&gt;" />
+<meta name="Author" content="Daniel Johnson &lt;mrdanieljohnsonpp@myway.com&gt;" />
+<meta name="Multipart-Subtype" content="alternative" />
+<meta name="X-TIKA:embedded_resource_path" content="/embedded-3680" />
+<meta name="Message-From" content="Daniel Johnson &lt;mrdanieljohnsonpp@myway.com&gt;" />
+<meta name="dc:identifier" content="&lt;6ff2089b0704301433oc058ebbgaa14268e00a792fc@mail.gmail.com&gt;" />
+<title>Hello</title>
+</head>
+<body><p>
+Dear friend,</p>
+
+
+<p>I am making this contact with you based on trust and confidence I have for you, your Company and God irrespective of the fact that we have not 
+met before and because of the nature of the business I am about to introduce to you,I want to remain positive having the faith, the will 
+
+and convincing myself that you will be interested and capable to do business with me.This business proposal I wish to intimate you with is 
+of mutual benefit and its success is entirely based on mutual trust,cooperation and a high levelof confidentiality as regard this 
+
+transaction.My name is Mr. Daniel Johnson The kind of the relationship and the confidential nature makes it imperative for me to contact you 
+directly by email. A German, Late Estate Magnate Mr.Andreas Schranner, a majority stakeholder in Korean Real Estate Company ,until his death 
+
+years ago in 25th July,2000 CONCORDE plane clash [Flight AF4590] <a shape="rect" href="http://news.bbc.co.uk/1/hi/worl">http://news.bbc.co.uk/1/hi/worl</a> d/europe/859479.stm&gt;),There is a fixed
+deposit of US$48,000,000.00(Fourty Eight Million United States Dollars) made in a Korea bank since 1998 which is eight years now and since 
+
+thenno claim or withdrawal have been made on that deposit.</p>
+
+
+<p>Fortunately, I have been the person in charge of this deposit from the day of deposit to date. This great late Estate Magnate died without a 
+written or oral 'WILL' attached to the account with respect to his investment in Korea Real Estate Company. It is because of the perceived 
+
+possibility of not being able to locate any of his next of kin. Rapidly,I took the precaution of converting this funds worth 
+US$48,000,000.00Dollarsto the[open secure progamme] and deposited it with OPEN BENEFICARY-which allowsanybody or person that has accurate
+
+informationto the deposit can lay claim to it.</p>
+
+
+<p>As a proposed partner i must confided in you immensely,therefore to use my position to move this money outside Korea through dedicated bank in 
+Europe to your designated account with consolidated arrangement. It can be transferred to your custody if you are willing and assure me of your 
+
+ability to handle such a sum and honesty that I will not be cheated out when the money comes into your account.I am willing to let you keep 20% 
+of this fund for your assistance. </p>
+
+
+<p>Indicate your willingness by return email.</p>
+
+
+<p>Sincerely yours,
+Mr Daniel Johnson.
+</p>
+
+
+</body></html>

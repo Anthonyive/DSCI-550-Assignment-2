@@ -1,0 +1,35 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="Number of Tables" content="4 Huffman tables" />
+<meta name="Compression Type" content="Baseline" />
+<meta name="Data Precision" content="8 bits" />
+<meta name="Number of Components" content="3" />
+<meta name="tiff:ImageLength" content="448" />
+<meta name="Component 2" content="Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert" />
+<meta name="Thumbnail Height Pixels" content="0" />
+<meta name="Component 1" content="Y component: Quantization table 0, Sampling factors 2 horiz/2 vert" />
+<meta name="X Resolution" content="150 dots" />
+<meta name="File Size" content="216138 bytes" />
+<meta name="Multipart-Boundary" content="0-487557513-1162819735=:76247" />
+<meta name="Component 3" content="Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert" />
+<meta name="embeddedResourceType" content="INLINE" />
+<meta name="File Name" content="apache-tika-7646766004058858101.tmp" />
+<meta name="tiff:BitsPerSample" content="8" />
+<meta name="Content-Type" content="image/jpeg" />
+<meta name="X-Parsed-By" content="org.apache.tika.parser.DefaultParser" />
+<meta name="X-Parsed-By" content="org.apache.tika.parser.jpeg.JpegParser" />
+<meta name="Resolution Units" content="inch" />
+<meta name="File Modified Date" content="Sun Mar 21 22:10:10 -07:00 2021" />
+<meta name="resourceName" content="front_view.JPG" />
+<meta name="Image Height" content="448 pixels" />
+<meta name="Thumbnail Width Pixels" content="0" />
+<meta name="Image Width" content="1088 pixels" />
+<meta name="Content-Disposition" content="inline; filename=&quot;front_view.JPG&quot;" />
+<meta name="X-TIKA:embedded_depth" content="2" />
+<meta name="Multipart-Subtype" content="mixed" />
+<meta name="X-TIKA:embedded_resource_path" content="/embedded-3228/front_view.JPG" />
+<meta name="tiff:ImageWidth" content="1088" />
+<meta name="Y Resolution" content="150 dots" />
+<title></title>
+</head>
+<body /></html>
