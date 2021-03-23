@@ -1,5 +1,5 @@
 # Metadata
-Things are little bit messy, so I want to explain what all these files mean:
+Things are little bit messy, so I want to provide some explanations about what all these files mean:
 ```bash
 .../DSCI-550-Assignment-2/data/additional-features-v2 anthony-branch*
 ❯ tree -L 2
