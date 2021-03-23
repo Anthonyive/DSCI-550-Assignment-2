@@ -8,6 +8,9 @@ ipykernel = "*"
 pandas = "*"
 gpt-2-simple = "*"
 lxml = "*"
+tika = "*"
+ipywidgets = "*"
+jupyterlab-widgets = "*"
 
 [dev-packages]
 
