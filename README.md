@@ -6,6 +6,8 @@
 
 ^ Badges will show up when the repo is publicly published.
 
+[Quick Access to Instructions](docs/DSCI550_HW_EXTRACT_PHISHING.pdf)
+
 ## Prerequisite
 
 1. Python virtual environment has been set up using `pipenv`. You need `pipenv` installed ([learn more about installation and usage](https://pipenv-fork.readthedocs.io/en/latest/)).
