@@ -12,6 +12,8 @@ tika = "*"
 ipywidgets = "*"
 jupyterlab-widgets = "*"
 tensorflow = "==1.15"
+jupyter-http-over-ws = "*"
+jupyter = "*"
 
 [dev-packages]
 
