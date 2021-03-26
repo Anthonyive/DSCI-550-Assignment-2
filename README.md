@@ -12,3 +12,6 @@
 
 1. Python virtual environment has been set up using `pipenv`. You need `pipenv` installed ([learn more about installation and usage](https://pipenv-fork.readthedocs.io/en/latest/)).
 
+## Caveats
+
+1. Task 4 and Task 5_6_7 have different tensorflow requirements (1.15 and 2.2.0). Please install the version the notebook specifies.
