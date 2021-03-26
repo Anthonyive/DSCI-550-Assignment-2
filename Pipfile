@@ -11,7 +11,11 @@ lxml = "*"
 tika = "*"
 ipywidgets = "*"
 jupyterlab-widgets = "*"
+pillow = "*"
+matplotlib = "*"
 tensorflow = "==1.15"
+jupyter-http-over-ws = "*"
+jupyter = "*"
 
 [dev-packages]
 
