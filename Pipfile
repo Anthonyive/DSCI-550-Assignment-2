@@ -13,7 +13,11 @@ ipywidgets = "*"
 jupyterlab-widgets = "*"
 pillow = "*"
 matplotlib = "*"
-tensorflow = "==1.15"
+tensorflow = "==2.2.0"
+jupyter-http-over-ws = "*"
+jupyter = "*"
+opencv-python = "*"
+sklearn = "*"
 
 [dev-packages]
 
