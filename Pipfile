@@ -18,6 +18,10 @@ jupyter-http-over-ws = "*"
 jupyter = "*"
 opencv-python = "*"
 sklearn = "*"
+lab = "*"
+jupyterlab = "*"
+gdown = "*"
+numpy = "==1.19.0"
 
 [dev-packages]
 
