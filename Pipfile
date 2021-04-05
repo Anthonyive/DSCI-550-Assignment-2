@@ -11,7 +11,17 @@ lxml = "*"
 tika = "*"
 ipywidgets = "*"
 jupyterlab-widgets = "*"
-tensorflow = "==1.15"
+pillow = "*"
+matplotlib = "*"
+tensorflow = "==2.2.0"
+jupyter-http-over-ws = "*"
+jupyter = "*"
+opencv-python = "*"
+sklearn = "*"
+lab = "*"
+jupyterlab = "*"
+gdown = "*"
+numpy = "==1.19.0"
 
 [dev-packages]
 
