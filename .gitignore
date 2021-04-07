@@ -118,3 +118,9 @@ dmypy.json
 
 **/Downloads
 notebooks/checkpoint/
+
+data/Fake Phish Iris/
+data/phishIRIS_DL_Dataset.zip
+data/phishIRIS_DL_Dataset/
+
+models/
