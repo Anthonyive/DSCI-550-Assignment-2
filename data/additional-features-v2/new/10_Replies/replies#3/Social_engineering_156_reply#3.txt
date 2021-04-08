@@ -1,0 +1,5 @@
+To whom may concern, I am not stupid.  I am sure you will be disappointed to learn that we are working on an open-source project. At Google, we have been designing, improving and developing our software for over 30 years. To get to this state with this open source software, we needed to have a community of people working on something that should be easy for everyone to use. However, due to the project being open source, you can still get the help you need and help support if you like. Please give me a call if you need help with this project and let me know if I can help with any other projects that we are working on. We will use our time to improve the project and continue developing to improve it.
+
+In the mean time, I am glad you came by for a quick look at the project. With your help we will be able to make it a better experience for all! Please keep in mind, if you use this open source software, you are helping us with a project you may be making.
+
+I am a Linux programmer.<|endoftext|>

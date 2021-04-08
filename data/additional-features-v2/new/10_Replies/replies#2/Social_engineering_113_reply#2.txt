@@ -1,0 +1,29 @@
+Hello, You account has been temporarily disabled, please contact us for activation.r activation.
+
+Login on Account
+
+To create a new account at a local account we will automatically create a new user with your email, username and password, which you will then share with us.
+
+The email you have emailed will be on the back of your account, at the same place on the internet we will automatically enter the password in your email. You should ensure you get that email at least once in the life of this blog. If you get your email wrong, you should get an error when you re-enter your password, so make sure you reset your account on time. If you still have a problem please contact us and we will try to solve it automatically.
+
+Your password has been changed. Please do not use your old password in our site.
+
+If you want your password to be back there, you need to have it re-entered by the new user before clicking any code in the password field. When re-entering your password please double check your password.
+
+To change your username and password to a new user just follow the steps below.
+
+When going to the site login using your username you will be able to do:
+
+Create new account on a local account
+
+Access a new page you have created
+
+Connect to a new user
+
+Enter your email and password
+
+Enter your email address
+
+Login to the server of your choice and check the new page to see your new user.
+
+The new

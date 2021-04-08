@@ -1,0 +1,32 @@
+YoI can give you $500 Target gift card. [S] :
+Y:S.O.B:SINI_ERIN (Y) [S] :
+O:S.O.B
+S:O.B:SINI_ERIN (Y) [S] :
+N/t: N
+L/t: N
+
+S:O.B:SINI_ERIN
+[Y] :
+S:O.B:SINI_ERIN
+[Y] :
+O:S.O.B
+
+Y:S.O.B:SINI_ERIN (Y) [S] :
+Y:S.O.B (SINI_ERIN) [S] :
+O:S.O.B
+
+N/t: N
+
+L/t: N
+
+N/t: N
+
+M/t: Y
+
+Y:S.O.B (SINI_ERIN) [S] :
+
+Y:S.O.B (SINI_ERIN)
+
+N:N/t: N
+
+S:O.B:SINI_ERIN (N) [N

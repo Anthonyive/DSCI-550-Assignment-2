@@ -1,0 +1,21 @@
+YoMy SNN is 123-456-7890.123-456-7890.
+
+YoMy SNN is a brand new web application to be built by an experienced developer working in the same area in Toronto, Canada. The goal of this website is to provide you with basic tools to easily deploy your YoMy SNN application to different sites and apps in multiple countries including Australia, New Zealand and other EU countries. The SNN web app is built on a modern web architecture with web hosting and cross platform technologies. The application is written in Java and aims to be quite open-source by making use of the JVM as an external scripting language.
+
+As such, it is not required that you have an internet connection or are a mobile user, it is entirely possible that if you can have as much information about the YoMy SNN site as you want. In addition, if you are interested in hosting the site as a single instance, you should check out the YoMy SNN installation guide.
+
+The YoMy SNN installation guide will be updated during the next month.
+
+Requirements
+
+It is extremely important that you have at least 8GB of available memory in your internet connection, and preferably a PC with an Intel Core i7 or 2GHz processor.
+
+The Android version of the website is version 4.7.
+
+For the Android platform, go to your android version. If you are using a newer version of Android, then you can install and install your application from the main application menu by using the app launcher.
+
+You need both a Google account and a Microsoft account to upload your application to the YoMy SNN server and that includes the following:
+
+Android version : 2.5 (for both the Android OS and Windows)
+
+Android version : 1.0.0.003216.00 (for both the Android

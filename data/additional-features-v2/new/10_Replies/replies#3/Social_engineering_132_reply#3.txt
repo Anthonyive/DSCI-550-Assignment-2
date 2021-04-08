@@ -1,0 +1,13 @@
+Hello, Your computer has been hacked. been hacked. This means you have two choices at this point. The first is to keep the device running as you would normally install an antivirus, or upgrade your computer to the latest version of the operating system. While the latter option is an extremely smart choice it is also a bit risky.
+
+Before we walk you through what we were going to do with the last few days of the day we should first be able to point out how easy it is to set up to work. In a nutshell we were going to look at how to setup a full-fledged computer without having to install software. The only exceptions will be desktop computers, which will install software via a remote or trusted download method.
+
+You will be prompted to create a login as shown in the screenshot below. To do so, you will be prompted with your password:
+
+After you have created your login, you should see the option Show username. If you have disabled login for this task you can click Yes for the username. In this scenario you would normally want to simply have an account created in your existing account if this is your first time and your preferred way of using your system. Click Next to open up the setup menu and click Make a change from the menu.
+
+Now that the login you wish to make is in place select your password from the drop-down menu:
+
+Finally, you will be given an easy way to get the account to work without having to install software. For this we will be using Ubuntu 14.04 and above. To run the installation you will need to run a terminal command and run sudo apt-get install lsh4t
+
+You may have
