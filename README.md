@@ -27,7 +27,7 @@ $ jupyter lab # run a jupyterlab instance on your localhost
 
 1. **[Task 3]** Jupyter notebook called [3.ipynb](notebooks/3.ipynb)
 
-   *Summary:* The notebook implements the Text-to-tag Ratio(TTR) algorithm in Tika Python that takes the XHTML representation and extracts out the relevant text. Finally, it adds a new column representing the TTR’ed resulting text.
+   *Summary:* The notebook implements the Text-to-tag Ratio (TTR) algorithm in Tika Python that takes the XHTML representation and extracts out the relevant text. Finally, it adds a new column representing the TTR’ed resulting text.
 
 2. **[Task 4]** Jupyter notebook called [4.ipynb](notebooks/4.ipynb)
 
