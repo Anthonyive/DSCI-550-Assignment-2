@@ -1,0 +1,43 @@
+Hello, I don't have my own computer, could you buy me one?u buy me one?
+
+There is an app that allows you to use the iPhone X on your phone.
+
+The app you choose will automatically be updated with your location.
+
+How do I pay it?
+
+Please go to the following link: https://openbanker.github.io/finance-wallet
+
+In the app you need to add your PIN. You can select the app you wish to use by adding the following line to your credit card information:
+
+pcm.info
+
+Enter your PIN
+
+You will get a confirmation email that you have added your PIN to the application. Once done you will get a confirmation code that is now valid for you.
+
+How can I get my credit card info?
+
+Please do the following:
+
+Click "Enter your card information"
+
+In the "Get Credit Card Info" box at the bottom the app has "Get the information" link.
+
+To see the card details, visit https://openbanker.github.io/download
+
+You will get an alert in the upper right from your tap to "Check what your credit card information is," in the app that you need your card information.
+
+Please check it, and you will see your card info on the right side.
+
+The next time you enter the PIN on the app, you will receive a second confirmation and a picture.
+
+How do I have my information erased?
+
+Click "Change your account password" to do so. In the upper right corner select the Privacy Settings.
+
+This will allow you to change your PIN (if any).
+
+You need to complete your payment, and you will receive an email to confirm your request.
+
+If you don't wish to receive the notification, click "

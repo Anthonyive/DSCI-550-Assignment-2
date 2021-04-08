@@ -1,0 +1,20 @@
+Dear, I will go to Western Union to write you the check tomorrow. Could you provide me with the receiver information? Thanks!O.B:SINI_ERIN
+y:S.O.B:SINI_ERIN [Y/t]
+S:O.B:SINI_ERIN (Y)
+Y:S.O.B:SINI_ERIN (Y) [S] :
+[S] : :
+N/t: N
+L/t: S.O.B
+n/t: S.O.B
+q/t: S.O.B
+t: S.O.B
+n/t: S.O.B
+Y:S.O.B (SINI_ERIN)
+Y:S.O.B:SINI_ERIN (Y)
+S:O.B:SINI_ERIN (Y) [S] :
+[S] : :
+Y:S.O.B (SINI_ERIN) [S] :
+[S] : :
+S:O.B:SINI_ERIN (Y)
+S:O.B:SINI_ERIN (Y) [S] :
+Y:S.O
