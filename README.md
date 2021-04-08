@@ -42,7 +42,7 @@ $ jupyter lab # run a jupyterlab instance on your localhost
 
    *Summary:* The notebook generates a new face for each of the 800 attack emails by applying the DCGAN technique from step 6
 
-5. **[Task 8]** Jupyter notebook called [8.ipynb](notebooks/8.ipynb)
+5. **[Task 8]** Jupyter notebook called [8.ipynb](notebooks/8/8.ipynb and notebooks/8/Grover_training.ipynb)
 
    *Summary:* The notebook uses [rowanz/grover repo](https://github.com/rowanz/grover) and generates new Grover model based on the extracted text from the fraudulent email corpus. Then, it uses Grover to test for falsification and to retroactively add that feature as a column to [TSV v 2 data](data/additional-features-v2/new/assignment2.tsv).
 
@@ -61,7 +61,7 @@ $ jupyter lab # run a jupyterlab instance on your localhost
 ## Caveats
 
 1. Task 4 and Task 5_6_7 have different tensorflow requirements (1.15 and 2.2.0 respectively). Please install the version the notebook specifies.
-2. Task 8 was done in Google Colab, and tensorflow requreiment is 1.14. 
+2. Task 8 training was done in Google Colab with TPU, and tensorflow requreiment is 1.14. Check out updated grover repo forked by Zixi Jiang(https://github.com/JessicaJiang98/grover) which includes the modification made to the script in order to run it in Colab.
 
 ## FAQ & Pull Requests
 
