@@ -1,0 +1,14 @@
+{"text": "hello there,for entry in lis:json.dump entry, outfileoutfile.write", "label": "machine", "split": "test"}
+{"text": "i am not fool", "label": "human", "split": "train"}
+{"text": "this is for testing perfore", "label": "machine", "split": "train"}
+{"text": "this is for testing perfore", "label": "machine", "split": "val"}
+{"text": "this byebyefdsdfase", "label": "machine", "split": "train"}
+{"text": "this is for testing perfore", "label": "machine", "split": "train"}
+{"text": "this is for testing perfore", "label": "machine", "split": "val"}
+{"text": "this byebyefdsdfase", "label": "machine", "split": "train"}
+{"text": "hello there,for entry in lis:json.dump entry, outfileoutfile.write", "label": "machine", "split": "test"}
+{"text": "i am not fool", "label": "human", "split": "train"}
+{"text": "this is for testing perfore", "label": "machine", "split": "train"}
+{"text": "this is for testing perfore", "label": "machine", "split": "val"}
+{"text": "this byebyefdsdfase", "label": "machine", "split": "train"}
+{"text": "hello there,for entry in lis:json.dump entry, outfileoutfile.write", "label": "machine", "split": "test"}
