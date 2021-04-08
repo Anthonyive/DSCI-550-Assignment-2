@@ -1,0 +1,28 @@
+Hello, You want my bank account, I’m having trouble turning the computer on. Can you help me?O.B
+E/k/a: S.O.B
+x/t: S.O.B
+y/t: S.O.B
+A/k/a: S.O.B
+B:S.O.B (SINI_ERIN)
+Y:S.O.B
+A:S.O.B (SINI_ERIN)
+Y:S.O.B
+E:S.O.B
+Y:S.O.B (SINI_ERIN)
+F/k/a: S.O.B
+f:P.F.F
+G:P.F.F
+H:P.F.F
+I:M.F.F
+K:P.F.F
+L:P.F.F
+M:P.F.F
+N:H.F.F
+O:N.F.F
+O:N.F.F
+S:P.F.F
+T:T.F.F
+S:P.F.F
+W:P.F.F
+T:P.F.F
+I:T.
