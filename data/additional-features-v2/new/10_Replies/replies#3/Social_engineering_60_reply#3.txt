@@ -1,0 +1,7 @@
+YoI can not access to my bank account so I would have to go to the bank to retrieve my information. all the textbooks. I tried to remember all the details of the book except for the names. Now, I have two sets of books on my table. One book about computer science has a cover and is called Computer Programming. It is about what computers are and its importance and its possible use. Now I know that Computer Programming is good for a long time. It is about the fundamental concepts of programming and its importance and its possible use. My father found this book on page 1 and I thought it was quite good. Then after I read a few more books on computer, I was able to understand all the details and that was when I decided to make a new program.
+
+
+A good program will teach you everything you need to be proficient in computer programming. A good program will create complex applications, which you will write yourself so that you can learn new concepts. The problem was, to keep up the learning process I had to change course names and add the words "program" and "computer" to my own definitions. So now I decided to make my own program from scratch. But this is why I wrote this program in Python.
+
+
+In Python, there is a number of different types of data types. The more data types you use the more advanced you can
