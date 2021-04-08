@@ -15,3 +15,4 @@
 ## Caveats
 
 1. Task 4 and Task 5_6_7 have different tensorflow requirements (1.15 and 2.2.0). Please install the version the notebook specifies.
+2. Task 8 was done in Google Colab, and tensorflow requreiment is 1.14. 
