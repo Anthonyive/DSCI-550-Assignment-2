@@ -54,6 +54,8 @@ $ jupyter lab # run a jupyterlab instance on your localhost
 8. **[Task 11]** Jupyter notebook called [11.ipynb](notebooks/11.ipynb)
 
    *Summary:* The notebook generates the new rows in [TSV v 2 data](data/additional-features-v2/new/assignment2.tsv) with your new attacks and their associated features from all prior steps.
+   
+Finally, the generated TSV file is located at [`data/Assignment\ 2.tsv`](<data/Assignment 2.tsv>)
 
 ## Caveats
 
