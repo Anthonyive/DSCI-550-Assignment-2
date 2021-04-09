@@ -4,8 +4,6 @@
 
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=flat-square&logo=Jupyter)](https://jupyter.org/try) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square)](https://www.python.org/) ![commit activity](https://img.shields.io/github/commit-activity/m/Anthonyive/DSCI-550-Assignment-2?style=flat-square) ![repo size](https://img.shields.io/github/repo-size/Anthonyive/DSCI-550-Assignment-2?style=flat-square)
 
-^ Badges will show up when the repo is publicly published.
-
 [Quick Access to Instructions](docs/DSCI550_HW_EXTRACT_PHISHING.pdf)
 
 ## Prerequisite
@@ -27,7 +25,7 @@ $ jupyter lab # run a jupyterlab instance on your localhost
 
 1. **[Task 3]** Jupyter notebook called [3.ipynb](notebooks/3.ipynb)
 
-   *Summary:* The notebook implements the Text-to-tag Ratio (TTR) algorithm in Tika Python that takes the XHTML representation and extracts out the relevant text. Finally, it adds a new column representing the TTR’ed resulting text.
+   *Summary:* The notebook implements the Text-to-tag Ratio (TTR) algorithm in Tika Python that takes the XHTML representation and extracts out the relevant text. Finally, it adds a new column representing the TTR’ed resulting text. The implementation of TTR algorithm is in `src/utils.py`.
 
 2. **[Task 4]** Jupyter notebook called [4.ipynb](notebooks/4.ipynb)
 
@@ -42,14 +40,13 @@ $ jupyter lab # run a jupyterlab instance on your localhost
 
    *Summary:* The notebook generates a new face for each of the 800 attack emails by applying the DCGAN technique from step 6
 
-5. **[Task 8]** Jupyter notebook called [8.ipynb](notebooks/8.ipynb)
+5. **[Task 8]** Jupyter notebook called [8.ipynb](notebooks/8/8.ipynb)
 
    *Summary:* The notebook uses [rowanz/grover repo](https://github.com/rowanz/grover) and generates new Grover model based on the extracted text from the fraudulent email corpus. Then, it uses Grover to test for falsification and to retroactively add that feature as a column to [TSV v 2 data](data/additional-features-v2/new/assignment2.tsv).
 
 6. **[Task 9]** Jupyter notebook called [9.ipynb](notebooks/9.ipynb)
 
-   *Summary:* The notebook generates captions for new Phish Iris images.
-
+   *Summary:* Used terminal commands to generate Phish Irish images captions and store them into txt files; used notebook to extract the necessary contents from the txt files put them into json files. 
 7. **[Task 10]** Jupyter notebook called [10.ipynb](notebooks/10.ipynb)
 
    *Summary:* The notebook uses GPT-2 model from huggingface to create 3 fake GPT-2 attacker-victim replies for each email.
@@ -61,7 +58,25 @@ $ jupyter lab # run a jupyterlab instance on your localhost
 ## Caveats
 
 1. Task 4 and Task 5_6_7 have different tensorflow requirements (1.15 and 2.2.0 respectively). Please install the version the notebook specifies.
-2. Task 8 was done in Google Colab, and tensorflow requreiment is 1.14. 
+2. Task 8 training was done in Google Colab with TPU, and tensorflow requreiment is 1.14. Check out updated grover repo forked by Zixi Jiang(https://github.com/JessicaJiang98/grover) which includes the modification made to the script in order to run it in Colab.
+
+## Notes
+Due to size limit, the entire dataset may not be uploaded. Just in case of losing track of files, here is the tree structure of the newly generated data for this assignment:
+```bash
+C:\Users\Antho\Downloads\DSCI-550-Assignment-2\data\additional-features-v2>tree
+C:.
+└───new
+    ├───10_Replies
+    │   ├───replies#1 # 200 reply emails
+    │   ├───replies#2 # 200 reply emails
+    │   └───replies#3 # 200 reply emails
+    ├───4_GPT-2_Generated_Text
+    │   ├───Credential_phishing  # 200 GPT-2 generated emails
+    │   ├───Malware              # 200 GPT-2 generated emails
+    │   ├───Reconnaissance       # 200 GPT-2 generated emails
+    │   └───Social_engineering   # 200 GPT-2 generated emails
+    └───4_GPT-2_Training_Dataset # more GPT-2 generated emails for training Grover
+```
 
 ## FAQ & Pull Requests
 
