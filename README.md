@@ -73,10 +73,10 @@ C:.
     │   ├───replies#2 # 200 reply emails
     │   └───replies#3 # 200 reply emails
     ├───4_GPT-2_Generated_Text
-    │   ├───Credential_phishing # 200 GPT-2 generated emails
-    │   ├───Malware # 200 GPT-2 generated emails
-    │   ├───Reconnaissance # 200 GPT-2 generated emails
-    │   └───Social_engineering # 200 GPT-2 generated emails
+    │   ├───Credential_phishing  # 200 GPT-2 generated emails
+    │   ├───Malware              # 200 GPT-2 generated emails
+    │   ├───Reconnaissance       # 200 GPT-2 generated emails
+    │   └───Social_engineering   # 200 GPT-2 generated emails
     └───4_GPT-2_Training_Dataset # more GPT-2 generated emails for training Grover
 ```
 
