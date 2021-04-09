@@ -62,6 +62,24 @@ $ jupyter lab # run a jupyterlab instance on your localhost
 1. Task 4 and Task 5_6_7 have different tensorflow requirements (1.15 and 2.2.0 respectively). Please install the version the notebook specifies.
 2. Task 8 training was done in Google Colab with TPU, and tensorflow requreiment is 1.14. Check out updated grover repo forked by Zixi Jiang(https://github.com/JessicaJiang98/grover) which includes the modification made to the script in order to run it in Colab.
 
+## Notes
+Due to size limit, the entire dataset may not be uploaded. Just in case of losing track of files, here is the tree structure of the newly generated data for this assignment:
+```bash
+C:\Users\Antho\Downloads\DSCI-550-Assignment-2\data\additional-features-v2>tree
+C:.
+└───new
+    ├───10_Replies
+    │   ├───replies#1 # 200 reply emails
+    │   ├───replies#2 # 200 reply emails
+    │   └───replies#3 # 200 reply emails
+    ├───4_GPT-2_Generated_Text
+    │   ├───Credential_phishing # 200 GPT-2 generated emails
+    │   ├───Malware # 200 GPT-2 generated emails
+    │   ├───Reconnaissance # 200 GPT-2 generated emails
+    │   └───Social_engineering # 200 GPT-2 generated emails
+    └───4_GPT-2_Training_Dataset # more GPT-2 generated emails for training Grover
+```
+
 ## FAQ & Pull Requests
 
 Please feel free to fork the repo and give it a pull request. If you encounter any problem, feel free to [email me](mailto:yzhang71@usc.edu).
