@@ -42,7 +42,7 @@ $ jupyter lab # run a jupyterlab instance on your localhost
 
    *Summary:* The notebook generates a new face for each of the 800 attack emails by applying the DCGAN technique from step 6
 
-5. **[Task 8]** Jupyter notebook called [8.ipynb](notebooks/8/8.ipynb and notebooks/8/Grover_training.ipynb)
+5. **[Task 8]** Jupyter notebook called [8.ipynb](notebooks/8/8.ipynb)
 
    *Summary:* The notebook uses [rowanz/grover repo](https://github.com/rowanz/grover) and generates new Grover model based on the extracted text from the fraudulent email corpus. Then, it uses Grover to test for falsification and to retroactively add that feature as a column to [TSV v 2 data](data/additional-features-v2/new/assignment2.tsv).
 
