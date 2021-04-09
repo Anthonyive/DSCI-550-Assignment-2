@@ -4,7 +4,7 @@
 
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=flat-square&logo=Jupyter)](https://jupyter.org/try) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square)](https://www.python.org/) ![commit activity](https://img.shields.io/github/commit-activity/m/Anthonyive/DSCI-550-Assignment-2?style=flat-square) ![repo size](https://img.shields.io/github/repo-size/Anthonyive/DSCI-550-Assignment-2?style=flat-square)
 
-[Quick Access to Instructions](docs/DSCI550_HW_EXTRACT_PHISHING.pdf)
+[Quick Access to Instructions](docs/DSCI550_HW_EXTRACT_PHISHING.pdf) | [Quick Access to Report](TEAM_GINGERDONKEY_EXTRACT.pdf) 
 
 ## Prerequisite
 
@@ -21,7 +21,7 @@ $ python -m ipykernel install --user --name=<my-virtualenv-name> # change the ke
 $ jupyter lab # run a jupyterlab instance on your localhost
 ```
 
-​		Be careful about tensorflow versions. See more in [Caveats](https://github.com/Anthonyive/DSCI-550-Assignment-2#caveats) section.
+   Be careful about tensorflow versions. See more in [Caveats](https://github.com/Anthonyive/DSCI-550-Assignment-2#caveats) section.
 
 1. **[Task 3]** Jupyter notebook called [3.ipynb](notebooks/3.ipynb)
 
