@@ -42,14 +42,13 @@ $ jupyter lab # run a jupyterlab instance on your localhost
 
    *Summary:* The notebook generates a new face for each of the 800 attack emails by applying the DCGAN technique from step 6
 
-5. **[Task 8]** Jupyter notebook called [8.ipynb](notebooks/8/8.ipynb)
+5. **[Task 8]** Jupyter notebook called [8.ipynb](notebooks/8/8.ipynb and notebooks/8/Grover_training.ipynb)
 
    *Summary:* The notebook uses [rowanz/grover repo](https://github.com/rowanz/grover) and generates new Grover model based on the extracted text from the fraudulent email corpus. Then, it uses Grover to test for falsification and to retroactively add that feature as a column to [TSV v 2 data](data/additional-features-v2/new/assignment2.tsv).
 
 6. **[Task 9]** Jupyter notebook called [9.ipynb](notebooks/9.ipynb)
 
-   *Summary:* The notebook generates captions for new Phish Iris images.
-
+   *Summary:* Used terminal commands to generate Phish Irish images captions and store them into txt files; used notebook to extract the necessary contents from the txt files put them into json files. 
 7. **[Task 10]** Jupyter notebook called [10.ipynb](notebooks/10.ipynb)
 
    *Summary:* The notebook uses GPT-2 model from huggingface to create 3 fake GPT-2 attacker-victim replies for each email.
