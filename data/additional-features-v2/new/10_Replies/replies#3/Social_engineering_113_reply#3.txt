@@ -1,0 +1,30 @@
+Hey,Thank you so much! this.
+
+Choose your username at the time you want to reset your account
+
+Choose your password at the time you want to log in from a new domain
+
+To change your password to a new account click on the new domain you are going to create.
+
+To change your password to your old account click on the new domain you want to log in from a new domain
+
+Choose your username and password at the time you want to log in from a new domain
+
+
+To save your settings to a new web browser check the settings section under Settings under System Settings under Cookies settings under Cookies settings
+
+You have the option to re-create your account.
+
+You have the option to leave a comment or delete your comments. You have the option to see all comments of the new user.
+
+In the logout field we have set the amount of time you have left to change your password, which is now 6 hours for new or old users or 0 mins for new users.
+
+You have the option to see your previous sessions if you have logged out.
+
+
+Now go back to the login page and click the green "Save as" button
+
+Go to the Login and Reset page
+
+
+After leaving your password we will be

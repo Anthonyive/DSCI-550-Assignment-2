@@ -1,0 +1,17 @@
+Dear, Your computer has been hacked. been hacked. It's time to take a look at its features.
+
+The first thing you may recall is the fact that there is no support for any sort of Linux browser. You may find a browser, such as Firefox, to be more than adequate for you.
+
+And you may even find that your browser does not have a support for a Linux distribution. In fact, what can you do but just run it without problems?
+
+The best solution to this problem is a simple, easy to use script.
+
+It's called the Naming System. It uses a custom system script that runs on your Windows machine, and it should run, "no" if you use a non-Windows environment.
+
+Naming System:
+
+The first thing you might notice when you run this script is that you should specify your computer. If you want to run the script for Windows as a running Linux machine, you first need to know the computer.
+
+If you don't, you are basically set, by default, to run the scripts with your computer's operating system's default options.
+
+For example, if you have a non-Windows machine, and you run these scripts without using any settings, then you are in a shell and you should add "nscp -v" to your PATH variable, which will then take you to your default terminal window (which you can use to access the NAMES file on the desktop or at the terminal) and point you to the NAMES FILE under the NAMES.

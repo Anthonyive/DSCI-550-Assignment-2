@@ -1,0 +1,28 @@
+YoUrgency Alert, please reply within 3 dayswithin 3 days after your receipt.
+
+
+The following information is no longer available due to a technical error on your address. Please contact us for further assistance. Thank you.
+
+Your information is not currently in the hands of the public at this time. Please see your local authorities first.
+
+1. Where is the latest available information of this request?
+
+We have the newest available information at the following URLs from the following sites:
+
+http://api.yoo.com
+
+http://api.yoo.com/YOLO/YOLORequest
+
+http://api.yoo.com/YOLO/YOLOResponse
+
+http://api.yoo.com/YOLO/YOLOResponseXML
+
+http://api.yoo.com/YOLO/YOLOResponseXML/YOLOResponseXML3-XML.aspx
+
+For the full history of our request please refer to our YOAuth service in the YOAuth REST client (Yoauth 2.0).
+
+2. Where can I get help?
+
+The following URL should be the current URL to our request at the time you placed the request, as noted in the documentation.
+
+http://www.yoo.com/api
