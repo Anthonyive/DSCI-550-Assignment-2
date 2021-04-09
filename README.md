@@ -31,10 +31,11 @@ $ jupyter lab # run a jupyterlab instance on your localhost
 
    *Summary:* The notebook uses [GPT-2 Simple Repo](https://github.com/minimaxir/gpt-2-simple) and runs GPT-2 on TTR’d texts to generate the initial 800 emails. It trains different GPT-2 mdoels on different attack email types, so that it can emit 200 per type (Credential phishing, malware, social engineering, reconnaissance). It should generate four directories with respective types in `data/additional-features-v2/new/4_GPT-2_Generated_Text/`. Each directory should contain 200 GPT-2 generated txt files.
 
-3. **[Task 6]** Jupyter notebooks called [6.ipynb](notebooks/6.ipynb) and [6_aggregated.ipynb](notebooks/6_aggregated.ipynb)
+3. **[Task 6]** Jupyter notebooks called [6.ipynb](notebooks/6.ipynb)  <!-- and [6_aggregated.ipynb](notebooks/6_aggregated.ipynb) -->
 
    *Summary:* [6.ipynb](notebooks/6.ipynb) leverages Phish Iris images dataset and DCGAN notebook from the towardsdatascience post by training a different model for each of the Phish Iris attacks (banking, social
-   media, etc.). [6_aggregated.ipynb](notebooks/6_aggregated.ipynb) is a simpler version of the previous notebook. It basically creates and uses a wrapper function in `src/phishIRIS.py` for simpler applications.
+   media, etc.). 
+   <!-- [6_aggregated.ipynb](notebooks/6_aggregated.ipynb) is a simpler version of the previous notebook. It basically creates and uses a wrapper function in `src/phishIRIS.py` for simpler applications. -->
 
 4. **[Task 7]** Jupyter notebook called [7.ipynb](notebooks/7.ipynb)
 
