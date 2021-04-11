@@ -1,4 +1,4 @@
-<img height="204" src="./docs/img/title-img-0.png"> <img height="204" src="./docs/img/title-img-2.png"><img height="204" src="./docs/img/title-img-1.png">
+<img height="204" src="./docs/img/title-img-0.png"> <img height="204" src="./docs/img/title-img-2.png"> <img height="204" src="./docs/img/title-img-1.png">
 
 # Large Scale Active Social Engineering Defense (ASED): Multimedia and Social Engineering
 
