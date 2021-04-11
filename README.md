@@ -1,3 +1,5 @@
+<img height="204" src="./docs/img/title-img.png">
+
 # Large Scale Active Social Engineering Defense (ASED): Multimedia and Social Engineering
 
 ![GitHub watchers](https://img.shields.io/github/watchers/Anthonyive/DSCI-550-Assignment-2?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/Anthonyive/DSCI-550-Assignment-2?style=social) ![GitHub forks](https://img.shields.io/github/forks/Anthonyive/DSCI-550-Assignment-2?style=social)
@@ -56,6 +58,7 @@ $ jupyter lab # run a jupyterlab instance on your localhost
 
    *Summary:* The notebook generates the new rows in [TSV v 2 data](data/additional-features-v2/new/assignment2.tsv) with your new attacks and their associated features from all prior steps.
    
+
 Finally, the generated TSV file is located at [`data/Assignment\ 2.tsv`](<data/Assignment 2.tsv>)
 
 ## Caveats
